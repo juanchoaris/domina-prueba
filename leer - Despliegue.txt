@@ -1,0 +1,16 @@
+cd user-service
+npm install
+node src/app.js
+
+
+cd task-service
+npm install
+node src/index.js
+
+cd user-task-app
+npm install
+npm start
+
+
+
+
